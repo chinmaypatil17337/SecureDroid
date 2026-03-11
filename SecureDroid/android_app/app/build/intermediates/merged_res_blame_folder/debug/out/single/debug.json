@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.securedroid.malwaredetector.app-merged_res-32:/layout_item_app_result.xml.flat",
+        "source": "com.securedroid.malwaredetector.app-main-34:/layout/item_app_result.xml"
+    },
+    {
+        "merged": "com.securedroid.malwaredetector.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.securedroid.malwaredetector.app-main-34:/layout/activity_main.xml"
+    }
+]

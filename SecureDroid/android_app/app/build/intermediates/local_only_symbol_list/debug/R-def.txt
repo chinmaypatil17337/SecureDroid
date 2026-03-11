@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+id btn_scan
+id progress_bar
+id rv_apps
+id tv_app_name
+id tv_package_name
+id tv_probability
+id tv_risk_level
+id tv_status
+id v_risk_dot
+layout activity_main
+layout item_app_result

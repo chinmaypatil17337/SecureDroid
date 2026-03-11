@@ -1,0 +1,3 @@
+com.securedroid.malwaredetector.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
